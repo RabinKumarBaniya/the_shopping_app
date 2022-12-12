@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:nibor_myshoppingapp/utils/routes.dart';
+import 'package:nibor_myshoppingapp/utils/themes.dart';
 import 'pages/home_page.dart';
-import 'package:google_fonts/google_fonts.dart';
 
 import 'pages/login_page.dart';
 
@@ -15,15 +15,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      themeMode: ThemeMode.light,
       debugShowCheckedModeBanner: false,
-      //home: LoginPage(),
-      theme: ThemeData(
-        primarySwatch: Colors.grey,
-        fontFamily: GoogleFonts.lato().fontFamily,
-      ),
-      darkTheme: ThemeData(
-        brightness: Brightness.dark,
-      ),
+      theme: MyTheme.lightTheme(context),
+      darkTheme: MyTheme.darkTheme(context),
       initialRoute: "MyRoutes.homeRoute",
       routes: {
         "/": (context) => LoginPage(),

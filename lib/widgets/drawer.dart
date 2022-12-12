@@ -9,7 +9,7 @@ class MyDrawer extends StatelessWidget {
         "https://media-exp1.licdn.com/dms/image/C4E03AQGOZ4Vdu06OAg/profile-displayphoto-shrink_800_800/0/1650221948459?e=2147483647&v=beta&t=JDT7rx7zqtM9XR9OMKLuW6BAEMXNicnCIuAUybB6teo";
     return Drawer(
       child: Container(
-        color: Colors.grey,
+        color: Colors.purple,
         child: ListView(
           padding: EdgeInsets.zero,
           children: [
@@ -27,39 +27,39 @@ class MyDrawer extends StatelessWidget {
             ListTile(
               leading: Icon(
                 Icons.home,
-                color: Colors.black,
+                color: Colors.white,
               ),
               title: Text(
                 "Home",
                 textScaleFactor: 1.2,
                 style: TextStyle(
-                  color: Colors.black,
+                  color: Colors.white,
                 ),
               ),
             ),
             ListTile(
               leading: Icon(
                 Icons.settings,
-                color: Colors.black,
+                color: Colors.white,
               ),
               title: Text(
                 "Setting",
                 textScaleFactor: 1.2,
                 style: TextStyle(
-                  color: Colors.black,
+                  color: Colors.white,
                 ),
               ),
             ),
             ListTile(
               leading: Icon(
                 Icons.mail,
-                color: Colors.black,
+                color: Colors.white,
               ),
               title: Text(
                 "Mail",
                 textScaleFactor: 1.2,
                 style: TextStyle(
-                  color: Colors.black,
+                  color: Colors.white,
                 ),
               ),
             ),
