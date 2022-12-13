@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone 11",
+      "detail": "64GB, Black - Unlocked ",
+      "price": 999,
+      "info": "This product is eligible for a replacement or refund within 90-day of receipt if it does not work as expected.",
+      "image": "https://th.bing.com/th/id/OIP.FdW0-Cua_oFQK-CCPmiriwHaKJ?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy M13 ",
+      "detail": "Midnight Blue, 4GB, 64GB Storage) | 6000mAh Battery | Upto 8GB RAM with RAM Plus",
+      "price": 180,
+      "info": "6000mAh lithium-ion battery, 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+      "image": "https://m.media-amazon.com/images/I/812YsUxpyfL._SX679_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Redmi 9A Sport",
+      "detail": "Carbon Black, 2GB RAM, 32GB Storage) | 2GHz Octa-core Helio G25 Processor | 5000 mAh Battery",
+      "price": 200,
+      "info": "Processor: MediaTek Helio G25 Octa-core; Up to 2.0GHz clock speed,Camera: 13 MP Rear camera with AI portrait| 5 MP front camera",
+      "image": "https://m.media-amazon.com/images/I/81T4O-rEI+L._SX569_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Redmi 10A",
+      "detail": "Sea Blue, 4GB RAM, 64GB Storage) | 2 Ghz Octa Core Helio G25 | 5000 mAh Battery | Finger Print Sensor | Upto 5GB RAM with RAM Booster",
+      "price": 339,
+      "info": "Camera: 13MP Rear Camera | 5MP Front Camera",
+      "image": "https://m.media-amazon.com/images/I/71WC+Qz1KgL._SX569_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Apple iPhone 13",
+      "detail": "(128GB) - Pink",
+      "price": 699,
+      "info": "15 cm (6.1-inch) Super Retina XDR display\nCinematic mode adds shallow depth of field and shifts focus automatically in your videos",
+      "image": "https://m.media-amazon.com/images/I/31p5cVyRLmL._SY445_SX342_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Samsung Galaxy M13 ",
+      "detail": "Midnight Blue, 4GB, 64GB Storage) | 6000mAh Battery | Upto 8GB RAM with RAM Plus",
+      "price": 180,
+      "info": "6000mAh lithium-ion battery, 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase",
+      "image": "https://m.media-amazon.com/images/I/812YsUxpyfL._SX679_.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Redmi 9A Sport",
+      "detail": "Carbon Black, 2GB RAM, 32GB Storage) | 2GHz Octa-core Helio G25 Processor | 5000 mAh Battery",
+      "price": 200,
+      "info": "Processor: MediaTek Helio G25 Octa-core; Up to 2.0GHz clock speed,Camera: 13 MP Rear camera with AI portrait| 5 MP front camera",
+      "image": "https://m.media-amazon.com/images/I/81T4O-rEI+L._SX569_.jpg"
+    }
+  ]
+}
